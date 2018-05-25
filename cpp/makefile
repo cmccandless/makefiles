@@ -1,3 +1,4 @@
+# Source: http://www.puxan.com/web/howto-write-generic-makefiles/
 # Declaration of variables
 CC = g++
 CC_FLAGS = -w
